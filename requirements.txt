@@ -1,0 +1,4 @@
+keras
+numpy
+opencv-python
+dlib
