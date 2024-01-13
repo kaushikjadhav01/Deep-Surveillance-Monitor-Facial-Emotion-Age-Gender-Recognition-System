@@ -9,7 +9,7 @@ Computer Vision module for detecting emotion, age and gender of a person in any 
 <img width="600px" src="https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/output_video1.gif">
 
 ### Detect Emotion, Age, Gender in Webcam!
-<img width="600px" src="https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/output_images/output_webcam1.PNG">
+<img width="400px" src="https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/output_images/output_webcam1.PNG">
 
 # Technical Concepts
 <b>VGG</b> The VGG network architecture was introduced by Simonyan and Zisserman in their 2014 paper, Very Deep Convolutional Networks for Large Scale Image Recognition.
