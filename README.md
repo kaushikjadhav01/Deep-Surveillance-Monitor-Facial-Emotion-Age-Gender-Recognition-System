@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/272146610.svg)](https://zenodo.org/doi/10.5281/zenodo.10499672)
+[![DOI](https://zenodo.org/badge/271256565.svg)](https://zenodo.org/doi/10.5281/zenodo.10524977)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/LICENSE)
 [![Code Coverage](https://codecov.io/gh/NCSU-Fall-2022-SE-Project-Team-11/XpensAuditor---Group-11/branch/master/graphs/badge.svg)](https://codecov.io)
 ![GitHub contributors](https://img.shields.io/badge/Contributors-1-brightgreen)
