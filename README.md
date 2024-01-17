@@ -51,7 +51,7 @@ Computer Vision module for detecting emotion, age and gender of a person in any 
 
 ## Installation
 1. Install Python and Jupyter studio
-2. Clone repo, cd into it and open the ```18.3B Age, Gender with Emotion.ipynb``` notebook in Jupyter.
+2. Clone repo, cd into it and open the ```Age, Gender with Emotion.ipynb``` notebook in Jupyter.
 
 ## Authors
 ### Kaushik Jadhav
